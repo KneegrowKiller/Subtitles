@@ -5,10 +5,12 @@
 
 关于字幕的详情，请前往 [Project](https://github.com/users/KneegrowKiller/projects/4) 查看。
 
+<br>
 
 ## 反馈或建议
 * 可前往 [Issues](https://github.com/KneegrowKiller/Subtitles/issues) 留言
-* 可在 [Bilibili](https://space.bilibili.com/4383717) 或 [ACFUN](https://www.acfun.cn/u/11840190) 私信我
+* 可在 [Bilibili](https://space.bilibili.com/4383717) 或 [ACFUN](https://www.acfun.cn/u/11840190) 私信我。
+<br>
 
 
 ## 共享说明
