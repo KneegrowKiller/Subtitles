@@ -1,7 +1,7 @@
 # Tsukigakirei (Anti-DEI) Subtitles Archive
 本仓库存放由今晚月色真美（种族骑士团）翻译制作的字幕。
 
-若有需要，请前往 [Releases](https://github.com/KneegrowKiller/Subtitles/releases) 或 [蓝奏云 (密码：9lck)](https://wwxh.lanzoum.com/b0fov3dgd) 下载。
+若有需要，请前往 [这里](https://github.com/KneegrowKiller/Subtitles/tree/main/Subs) 或 [蓝奏云 (密码：9lck)](https://wwxh.lanzoum.com/b0fov3dgd) 下载。
 
 
 ## 反馈或建议
