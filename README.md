@@ -3,7 +3,7 @@
 
 若有需要，请前往 [仓库](https://github.com/KneegrowKiller/Subtitles/tree/main/Subs) 或 [蓝奏云 (密码：9lck)](https://wwxh.lanzoum.com/b0fov3dgd) 下载。
 
-关于字幕的详情，请前往 [Project](https://github.com/users/KneegrowKiller/projects/4) 查看。
+关于字幕的详情，请前往 [项目表](https://github.com/users/KneegrowKiller/projects/4) 查看。
 
 <br>
 
