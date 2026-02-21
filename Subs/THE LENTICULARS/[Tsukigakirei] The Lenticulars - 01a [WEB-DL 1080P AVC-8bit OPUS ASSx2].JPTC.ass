@@ -9,10 +9,6 @@ YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
 
-[Aegisub Project Garbage]
-Video Zoom Percent: 0.500000
-Video Position: 138
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Title,方正静蕾简体,108,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,10,10,10,1
@@ -186,7 +182,7 @@ Dialogue: 0,0:02:46.86,0:02:48.44,CN,,0,0,0,,反而是我  怪不好意思的
 Dialogue: 0,0:02:49.45,0:02:51.02,CN,,0,0,0,,這個應該比勞保手套更暖和
 Dialogue: 0,0:02:53.44,0:02:56.39,CN,,0,0,0,,確實啊  嗯  我會用的
 Dialogue: 0,0:02:59.82,0:03:02.98,CN,,0,0,0,,聽說她國中的時候交過男朋友  是真的嗎？
-Dialogue: 0,0:03:05.86,0:03:06.77,CN,,0,0,0,,沢木…
+Dialogue: 0,0:03:05.86,0:03:06.77,CN,,0,0,0,,澤木…
 Dialogue: 0,0:03:09.31,0:03:09.82,CN,,0,0,0,,嗯？
 Dialogue: 0,0:03:10.94,0:03:16.21,CN,,0,0,0,,{\fad(0,2000)}聽說她國中的時候交過男朋友  是真的嗎…
 Dialogue: 0,0:03:16.21,0:03:17.28,CN,,0,0,0,,那個…

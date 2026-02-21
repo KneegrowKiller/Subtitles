@@ -9,10 +9,6 @@ YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
 
-[Aegisub Project Garbage]
-Active Line: 1
-Video Position: 95
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Title,方正静蕾简体,108,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,10,10,10,1
