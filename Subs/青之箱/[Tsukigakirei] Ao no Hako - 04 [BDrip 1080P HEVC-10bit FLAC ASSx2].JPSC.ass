@@ -5,26 +5,26 @@ Title: Ao no Hako - EP04
 Original Script: Tsukigakirei
 ScriptType: v4.00+
 ScaledBorderAndShadow: yes
-YCbCr Matrix: TV.709
+YCbCr Matrix: None
 PlayResX: 1920
 PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Title,方正静蕾简体,50,&H00121310,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
-Style: Staff,方正大黑_GBK,50,&H00303030,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,10,10,20,1
-Style: CN,方正悠黑_GBK 509R,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,20,20,20,1
-Style: JP,Yu Gothic,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,20,20,20,1
-Style: OP-JP,HGMinchoB,45,&H00FFFFFF,&H000000FF,&H004E4E4E,&H00000000,-1,0,0,0,100,100,2,0,1,0.1,0,8,10,10,30,1
-Style: OP-CN,方正大标宋_GBK,51,&H00FFFFFF,&H000000FF,&H004E4E4E,&H00000000,0,0,0,0,100,100,2,0,1,0.1,0,2,10,10,30,1
+Style: Staff,思源黑体 Medium,56,&H00303030,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,20,1
+Style: CN,思源黑体 Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: JP,Source Han Sans JP Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+Style: OP-JP,Source Han Serif JP,60,&H00FFFFFF,&H000000FF,&H004E4E4E,&H00000000,-1,0,0,0,100,100,2,0,1,0.1,0,8,10,10,30,1
+Style: OP-CN,思源宋体,60,&H00FFFFFF,&H000000FF,&H004E4E4E,&H00000000,-1,0,0,0,100,100,2,0,1,0.1,0,2,10,10,30,1
 Style: ED-JP,HGSoeiPresenceEB,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,30,1
 Style: ED-CN,华康俪金黑W8,44,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,2,10,10,30,1
-Style: Screen,方正悠黑_GBK 509R,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: Screen,思源黑体 Medium,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:02:11.99,0:02:14.99,Title,,0,0,0,,{\blur3\fs100\pos(1481.619,270.096)}「要是那家伙赢了的话」
-Dialogue: 0,0:02:14.99,0:02:19.99,Staff,,0,0,0,,{\fad(400,400)\blur5}本字幕由今晚月色真美个人制作 仅供练习使用 请勿用于商业用途
+Dialogue: 0,0:02:14.99,0:02:19.99,Staff,,0,0,0,,{\fad(400,400)\blur5}本字幕由 今晚月色真美 个人制作\N{\fs48}仅供练习使用 请勿用于商业用途
 Comment: 0,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,,OP-JP
 Dialogue: 0,0:00:48.95,0:00:52.95,OP-JP,,0,0,0,,{\1a&H3c&\blur5\fad(300,300)}気持ちの整理がつかないままの朝に
 Dialogue: 0,0:00:52.95,0:00:56.41,OP-JP,,0,0,0,,{\1a&H3c&\blur5\fad(300,300)}胸の奥がひりついて　たまらなかった
@@ -935,10 +935,10 @@ Dialogue: 0,0:22:01.76,0:22:02.80,CN,,0,0,0,,我就和他去水族馆
 Dialogue: 0,0:23:35.82,0:23:36.54,CN,,0,0,0,,下一集
 Dialogue: 0,0:23:36.94,0:23:37.92,CN,,0,0,0,,水族馆
 Comment: 0,0:00:00.00,0:00:00.00,Screen,,0,0,0,,Screen
-Dialogue: 0,0:02:40.01,0:02:41.52,Screen,,0,0,0,,{\an7\1c&H383838&\fs30\frz342.3\pos(608.657,603.142)}抱歉突然打扰你！
-Dialogue: 0,0:02:43.52,0:02:45.52,Screen,,0,0,0,,{\an7\1c&H6A6A6A&\fs35\pos(464,126)}抱歉突然打扰你
-Dialogue: 0,0:02:43.52,0:02:45.52,Screen,,0,0,0,,{\an7\1c&H6A6A6A&\fs35\pos(464,596)}你是不是错拿了我的运动服？
-Dialogue: 0,0:02:52.03,0:02:53.78,Screen,,0,0,0,,{\an7\1c&H6A6A6A&\fs40\pos(268,495.2)}我第五节课就是体育课…
+Dialogue: 0,0:02:40.01,0:02:41.52,Screen,,0,0,0,,{\an7\1c&H383838&\fs36\frz342.3\pos(610,600)}抱歉突然打扰你！
+Dialogue: 0,0:02:43.52,0:02:45.52,Screen,,0,0,0,,{\an7\1c&H6A6A6A&\fs36\pos(464,126)}抱歉突然打扰你
+Dialogue: 0,0:02:43.52,0:02:45.52,Screen,,0,0,0,,{\an7\1c&H6A6A6A&\fs36\pos(464,596)}你是不是错拿了我的运动服？
+Dialogue: 0,0:02:52.03,0:02:53.78,Screen,,0,0,0,,{\an7\1c&H6A6A6A&\fs48\pos(268,488)}我第五节课就是体育课…
 Dialogue: 0,0:02:57.12,0:03:05.12,Screen,,0,0,0,,{\fs30\1c&HFFFFFF&\1a&H80&\clip(1295,25,1895,406)\p1}m 0 0 l 1920 0 l 1920 1080 l 0 1080
 Dialogue: 0,0:02:57.12,0:03:05.12,Screen,,0,0,0,,{\an7\fs40\1c&H000000&\pos(1320,45)}千夏：你是不是错拿了我的运动服？\N　　　我第五节课就是体育课…\N\N大喜：我给你送过去！！\N　　　那我们去哪呢…？\N\N千夏：去个没人的地方吧…\N　　　比如多媒体教室…？\N\N大喜：好
-Dialogue: 0,0:04:45.39,0:04:48.39,Screen,,0,0,0,,{\an7\fs35\1c&H565959&\frz5.092\pos(534.667,816)}来教学楼西侧的屋顶！
+Dialogue: 0,0:04:45.39,0:04:48.39,Screen,,0,0,0,,{\an7\fs48\1c&H565959&\frz5.092\pos(533.33,808)}来教学楼西侧的屋顶！
