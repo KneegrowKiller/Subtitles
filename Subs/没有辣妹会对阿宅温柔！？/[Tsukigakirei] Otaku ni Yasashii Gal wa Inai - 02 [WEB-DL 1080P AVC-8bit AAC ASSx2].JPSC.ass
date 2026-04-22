@@ -52,7 +52,8 @@ Dialogue: 0,0:02:56.16,0:03:00.45,OP-JP,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF
 Dialogue: 0,0:03:00.45,0:03:01.58,OP-JP,,0,0,0,,{\fad(300,0)\1c&HDF01FD&\4c&HF8C191&}I know all of the baggage and burdens you carry beside you
 Dialogue: 0,0:03:01.58,0:03:03.96,OP-JP,,0,0,0,,{\fad(0,300)\1c&H03C5FE&\4c&HA95544&}I know all of the baggage and burdens you carry beside you
 Dialogue: 0,0:03:04.33,0:03:07.46,OP-JP,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}There's a beauty in taking a chance and letting it guide you
-Dialogue: 0,0:03:08.08,0:03:12.84,OP-JP,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}Look inside the crystal, there's no answers, no map, no guide
+Dialogue: 0,0:03:08.08,0:03:10.03,OP-JP,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}Look inside the crystal
+Dialogue: 0,0:03:10.03,0:03:12.84,OP-JP,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}There's no answers, no map, no guide
 Dialogue: 0,0:03:12.84,0:03:13.97,OP-JP,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}Follow what you feeling
 Dialogue: 0,0:03:14.80,0:03:18.30,OP-JP,,0,0,0,,{\fad(300,300)\1c&H01FDFB\4c&H6346F9&}No, I don't chase, I don't play hide and seek
 Dialogue: 0,0:03:18.51,0:03:20.82,OP-JP,,0,0,0,,{\fad(300,300)\1c&H01FDFB\4c&H6346F9&}本気なら見せてよ
@@ -98,7 +99,8 @@ Dialogue: 0,0:02:56.16,0:03:00.45,OP-CN,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF
 Dialogue: 0,0:03:00.45,0:03:01.58,OP-CN,,0,0,0,,{\fad(300,0)\1c&HDF01FD&\4c&HF8C191&}我知道你背负着所有的过往与重担
 Dialogue: 0,0:03:01.58,0:03:03.96,OP-CN,,0,0,0,,{\fad(0,300)\1c&H03C5FE&\4c&HA95544&}我知道你背负着所有的过往与重担
 Dialogue: 0,0:03:04.33,0:03:07.46,OP-CN,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}勇敢放手一搏  让心指引方向  其中自有美好
-Dialogue: 0,0:03:08.08,0:03:12.84,OP-CN,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}看向水晶球  那里没有答案  没有地图  没有指引
+Dialogue: 0,0:03:08.08,0:03:10.03,OP-CN,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}看向水晶球
+Dialogue: 0,0:03:10.03,0:03:12.84,OP-CN,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}那里没有答案  没有地图  没有指引
 Dialogue: 0,0:03:12.84,0:03:13.97,OP-CN,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}跟着你的直觉走就好
 Dialogue: 0,0:03:14.80,0:03:18.30,OP-CN,,0,0,0,,{\fad(300,300)\1c&H01FDFB\4c&H6346F9&}我不会主动出击  也不会和你玩捉迷藏
 Dialogue: 0,0:03:18.51,0:03:20.82,OP-CN,,0,0,0,,{\fad(300,300)\1c&H01FDFB\4c&H6346F9&}你要是真心的  就证明给我看
@@ -108,14 +110,14 @@ Dialogue: 0,0:03:24.04,0:03:25.89,OP-CN,,0,0,0,,{\fad(300,300)\1c&H01FDFB\4c&H63
 Dialogue: 0,0:03:25.89,0:03:27.15,OP-CN,,0,0,0,,{\fad(300,0)\1c&H01FDFB\4c&H6346F9&}证明给我看  你对我毫无保留
 Dialogue: 0,0:03:27.15,0:03:29.37,OP-CN,,0,0,0,,{\fad(0,300)\1c&HFFFE00&\4c&HF17DF7&}证明给我看  你对我毫无保留
 Dialogue: 0,0:03:29.37,0:03:32.82,OP-CN,,0,0,0,,{\fad(300,300)\1c&HFFFE00&\4c&HF17DF7&}昨日星辰为我们连成一线
-Dialogue: 0,0:03:32.82,0:03:36.28,OP-CN,,0,0,0,,{\fad(300,300)\1c&HFFFE00&\4c&HF17DF7&}今天你该明白  我已占据你的脑海
+Dialogue: 0,0:03:32.82,0:03:36.28,OP-CN,,0,0,0,,{\fad(300,300)\1c&HFFFE00&\4c&HF17DF7&}今天我已占据你的脑海
 Dialogue: 0,0:03:36.28,0:03:38.16,OP-CN,,0,0,0,,{\fad(300,300)\1c&HFFFE00&\4c&HF17DF7&}我要的是玫瑰  不是危险信号
 Dialogue: 0,0:03:38.17,0:03:38.53,OP-CN,,0,0,0,,{\fad(300,0)\1c&HFFFE00&\4c&HF17DF7&}不然就再见吧
 Dialogue: 0,0:03:38.53,0:03:40.20,OP-CN,,0,0,0,,{\fad(0,300)\1c&HFFFE00&\4c&HC8BF58&}不然就再见吧
-Dialogue: 0,0:03:40.37,0:03:40.87,OP-CN,,0,0,0,,{\fad(0,0)\bord3\shad0\1c&HEABE87&\3c&HFFFFFF&}我可不怕就此放手
-Dialogue: 0,0:03:40.87,0:03:41.33,OP-CN,,0,0,0,,{\bord3\shad0\1c&HB596FF&\3c&HFFFFFF&}我可不怕就此放手
-Dialogue: 0,0:03:41.33,0:03:41.58,OP-CN,,0,0,0,,{\bord3\shad0\1c&HEABE87&\3c&HFFFFFF&}我可不怕就此放手
-Dialogue: 0,0:03:41.58,0:03:42.95,OP-CN,,0,0,0,,{\fad(0,300)\bord3\shad0\1c&HB596FF&\3c&HFFFFFF&}我可不怕就此放手
+Dialogue: 0,0:03:40.37,0:03:40.87,OP-CN,,0,0,0,,{\fad(0,0)\bord3\shad0\1c&HEABE87&\3c&HFFFFFF&}我不怕抛弃一切
+Dialogue: 0,0:03:40.87,0:03:41.33,OP-CN,,0,0,0,,{\bord3\shad0\1c&HB596FF&\3c&HFFFFFF&}我不怕抛弃一切
+Dialogue: 0,0:03:41.33,0:03:41.58,OP-CN,,0,0,0,,{\bord3\shad0\1c&HEABE87&\3c&HFFFFFF&}我不怕抛弃一切
+Dialogue: 0,0:03:41.58,0:03:42.95,OP-CN,,0,0,0,,{\fad(0,300)\bord3\shad0\1c&HB596FF&\3c&HFFFFFF&}我不怕抛弃一切
 Dialogue: 0,0:03:42.95,0:03:43.66,OP-CN,,0,0,0,,{\fad(300,0)\bord0\shad0\1c&HB596FF&}再好好想想吧
 Dialogue: 0,0:03:43.66,0:03:44.37,OP-CN,,0,0,0,,{\fad(0,300)\1c&H01FDFB\4c&H6346F9&}再好好想想吧
 Comment: 0,0:00:00.00,0:00:00.00,ED-JP-1,,0,0,0,,ED-JP-1

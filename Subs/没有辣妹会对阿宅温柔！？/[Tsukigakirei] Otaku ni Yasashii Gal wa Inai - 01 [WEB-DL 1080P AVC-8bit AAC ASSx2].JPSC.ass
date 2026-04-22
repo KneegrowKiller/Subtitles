@@ -15,71 +15,81 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Title,思源黑体 Heavy,64,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,4,0,2,10,10,10,1
 Style: JP,Source Han Sans JP Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
 Style: CN,思源黑体 Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
-Style: OP-JP,FOT-UDMarugo_Small Pr6 M,48,&H00FFFFFF,&H000000FF,&H00C7985F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,20,10,20,1
-Style: OP-CN,方正兰亭圆_GBK,38,&H00FFFFFF,&H000000FF,&H00D0A065,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,10,20,20,1
+Style: OP-JP,FOT-UDMarugo_Small Pr6 M,48,&H00FFFFFF,&H000000FF,&H00C7985F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,20,10,10,1
+Style: OP-CN,方正兰亭圆_GBK,38,&H00FFFFFF,&H000000FF,&H00D0A065,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,10,20,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:21:19.43,0:21:23.01,Title,,0,0,0,,{\an8\fad(501,0)\bord3\1c&HB8A5A1&}本字幕由{\1c&HECC090&} 今晚月色真美 {\1c&HB8A5A1&}个人制作\N{\fs48\1c&HB89CFC&}仅供练习使用  {\1c&H35DDC4&}请勿用于商业用途
 Dialogue: 0,0:21:19.43,0:21:23.01,Title,,0,0,0,,{\pos(1229.5,900)\fad(501,0)\fs72\1c&H31DCC3&\pos(1217,907)}第1个小时{\1c&HB8A5A1&}『{\1c&HECC090&}阿宅{\1c&HB8A5A1&}与{\1c&HB89CFC&}辣妹{\1c&HB8A5A1&}与{\1c&H35DDC4&}闪光兽{\1c&HB8A5A1&}』
 Comment: 0,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,,OP-JP
-Comment: 0,0:21:24.28,0:21:27.06,OP-JP,,0,0,0,,{\fad(300,300)}Yeah, it was nice to meet you in everything
-Comment: 0,0:21:27.49,0:21:29.12,OP-JP,,0,0,0,,{\fad(300,300)}But there are somethings you should know
-Comment: 0,0:21:30.04,0:21:32.38,OP-JP,,0,0,0,,{\fad(300,300)}I'm not like those other girls you are used to
-Comment: 0,0:21:33.17,0:21:34.97,OP-JP,,0,0,0,,{\fad(300,300)}If you think you have what it takes
-Comment: 0,0:21:35.48,0:21:36.71,OP-JP,,0,0,0,,{\fad(300,300)}Then I'll be right here
-Comment: 0,0:21:37.86,0:21:41.37,OP-JP,,0,0,0,,{\fad(300,300)}I've been all alone for so long
-Comment: 0,0:21:41.53,0:21:45.03,OP-JP,,0,0,0,,{\fad(300,300)}Think I'm better off just on my own
-Comment: 0,0:21:45.24,0:21:48.74,OP-JP,,0,0,0,,{\fad(300,300)}When you're looking for love, it's always hiding away
-Comment: 0,0:21:48.74,0:21:52.17,OP-JP,,0,0,0,,{\fad(300,300)}I knew you boys just love to play their games
-Comment: 0,0:21:52.59,0:21:54.71,OP-JP,,0,0,0,,{\fad(300,300)}This love is 閉じない
-Comment: 0,0:21:54.71,0:21:56.77,OP-JP,,0,0,0,,{\fad(300,300)}逃げて enjoy that
-Comment: 0,0:21:56.77,0:21:58.42,OP-JP,,0,0,0,,{\fad(300,300)}I'm not easy, it's not hard
-Comment: 0,0:21:58.42,0:22:00.46,OP-JP,,0,0,0,,{\fad(300,300)}Just give up girl, so bet their word
-Comment: 0,0:22:00.46,0:22:04.20,OP-JP,,0,0,0,,{\fad(300,300)}何も言わなくても Your eyes are saying
-Comment: 0,0:22:04.20,0:22:08.51,OP-JP,,0,0,0,,{\fad(300,300)}All that I need to know for you
-Comment: 0,0:22:08.52,0:22:12.01,OP-JP,,0,0,0,,{\fad(300,300)}I know all of the baggage and burdens you carry besides you
-Comment: 0,0:22:12.23,0:22:15.53,OP-JP,,0,0,0,,{\fad(300,300)}There's a beauty in taking a chance letting it guide you
-Comment: 0,0:22:16.15,0:22:20.87,OP-JP,,0,0,0,,{\fad(300,300)}Look inside the crystal, there's no answers, no map, no guide
-Comment: 0,0:22:20.87,0:22:22.00,OP-JP,,0,0,0,,{\fad(300,300)}Follow what you feeling
-Comment: 0,0:22:22.85,0:22:26.34,OP-JP,,0,0,0,,{\fad(300,300)}No one will taste(?), I'll be hide and seek
-Comment: 0,0:22:26.56,0:22:30.47,OP-JP,,0,0,0,,{\fad(300,300)}本気並びSo (?) you come find me
-Comment: 0,0:22:30.47,0:22:33.95,OP-JP,,0,0,0,,{\fad(300,300)}(?)なんで信じない
-Comment: 0,0:22:33.95,0:22:37.38,OP-JP,,0,0,0,,{\fad(300,300)}Gotta show me boy ヒミツはなしだよ
-Comment: 0,0:22:37.38,0:22:40.87,OP-JP,,0,0,0,,{\fad(300,300)}Yesterday the stars aligned our way
-Comment: 0,0:22:40.87,0:22:44.32,OP-JP,,0,0,0,,{\fad(300,300)}Today you know I'll be running around your brain
-Comment: 0,0:22:44.32,0:22:48.26,OP-JP,,0,0,0,,{\fad(300,300)}I will (?) refly, gonna say さよなら BYEBYE
-Comment: 0,0:22:48.26,0:22:51.00,OP-JP,,0,0,0,,{\fad(300,300)}I'm not afraid to throw it out a way
-Comment: 0,0:22:51.00,0:22:52.41,OP-JP,,0,0,0,,{\fad(300,300)}Think twice about it
+Dialogue: 0,0:21:24.28,0:21:27.06,OP-JP,,0,0,0,,{\fad(300,300)}Yeah, it was nice to meet you and everything
+Dialogue: 0,0:21:27.49,0:21:29.12,OP-JP,,0,0,0,,{\fad(300,300)}But there are somethings you should know
+Dialogue: 0,0:21:30.04,0:21:32.38,OP-JP,,0,0,0,,{\fad(300,300)}I'm not like those other girls you're used to
+Dialogue: 0,0:21:33.17,0:21:34.97,OP-JP,,0,0,0,,{\fad(300,300)}If you think you have what it takes
+Dialogue: 0,0:21:35.48,0:21:36.71,OP-JP,,0,0,0,,{\fad(300,300)}Then I'll be right here
+Dialogue: 0,0:21:37.86,0:21:41.37,OP-JP,,0,0,0,,{\fad(300,300)}I've been all alone for so long
+Dialogue: 0,0:21:41.53,0:21:45.03,OP-JP,,0,0,0,,{\fad(300,300)}Think I'm better off just on my own
+Dialogue: 0,0:21:45.24,0:21:48.74,OP-JP,,0,0,0,,{\fad(300,300)}When you're looking for love, it's always hiding away
+Dialogue: 0,0:21:48.74,0:21:52.17,OP-JP,,0,0,0,,{\fad(300,300)}I know how boys just love to play their games
+Dialogue: 0,0:21:52.59,0:21:53.81,OP-JP,,0,0,0,,{\fad(300,300)}They say love is blind
+Dialogue: 0,0:21:53.81,0:21:55.67,OP-JP,,0,0,0,,{\fad(300,300)}閉じない eyes, 握って tight
+Dialogue: 0,0:21:55.67,0:21:56.77,OP-JP,,0,0,0,,{\fad(300,300)}Enjoy the ride
+Dialogue: 0,0:21:56.77,0:21:58.42,OP-JP,,0,0,0,,{\fad(300,300)}I'm not easy, it's not hard
+Dialogue: 0,0:21:58.42,0:22:00.46,OP-JP,,0,0,0,,{\fad(300,300)}Just give a girl 全て world
+Dialogue: 0,0:22:00.46,0:22:04.20,OP-JP,,0,0,0,,{\fad(300,300)}何も言わなくても Your eyes are saying
+Dialogue: 0,0:22:04.20,0:22:08.51,OP-JP,,0,0,0,,{\fad(300,300)}All that I need to know from you
+Dialogue: 0,0:22:08.52,0:22:12.01,OP-JP,,0,0,0,,{\fad(300,300)}I know all of the baggage and burdens you carry beside you
+Dialogue: 0,0:22:12.23,0:22:15.53,OP-JP,,0,0,0,,{\fad(300,300)}There's a beauty in taking a chance and letting it guide you
+Dialogue: 0,0:22:16.15,0:22:18.03,OP-JP,,0,0,0,,{\fad(300,300)}Look inside the crystal
+Dialogue: 0,0:22:18.04,0:22:20.87,OP-JP,,0,0,0,,{\fad(300,300)}There's no answers, no map, no guide
+Dialogue: 0,0:22:20.87,0:22:22.00,OP-JP,,0,0,0,,{\fad(300,300)}Follow what you feeling
+Dialogue: 0,0:22:22.85,0:22:26.34,OP-JP,,0,0,0,,{\fad(300,300)}No, I don't chase, I don't play hide and seek
+Dialogue: 0,0:22:26.56,0:22:28.85,OP-JP,,0,0,0,,{\fad(300,300)}本気なら見せてよ
+Dialogue: 0,0:22:28.85,0:22:30.47,OP-JP,,0,0,0,,{\fad(300,300)}Come find me
+Dialogue: 0,0:22:30.47,0:22:32.07,OP-JP,,0,0,0,,{\fad(300,300)}"Girl be mine"
+Dialogue: 0,0:22:32.07,0:22:33.95,OP-JP,,0,0,0,,{\fad(300,300)}なんて信じない
+Dialogue: 0,0:22:33.95,0:22:37.38,OP-JP,,0,0,0,,{\fad(300,300)}Gotta show me boy 秘密はナシだよ
+Dialogue: 0,0:22:37.38,0:22:40.87,OP-JP,,0,0,0,,{\fad(300,300)}Yesterday the stars aligned our way
+Dialogue: 0,0:22:40.87,0:22:44.32,OP-JP,,0,0,0,,{\fad(300,300)}Today I know I've been running around your brain
+Dialogue: 0,0:22:44.32,0:22:46.20,OP-JP,,0,0,0,,{\fad(300,300)}I want roses, no red flags
+Dialogue: 0,0:22:46.20,0:22:48.26,OP-JP,,0,0,0,,{\fad(300,300)}Gonna say さよなら Bye bye
+Dialogue: 0,0:22:48.26,0:22:51.00,OP-JP,,0,0,0,,{\fad(300,300)}I'm not afraid to throw it all away
+Dialogue: 0,0:22:51.00,0:22:52.41,OP-JP,,0,0,0,,{\fad(300,300)}Think twice about it
 Comment: 0,0:00:00.00,0:00:00.00,OP-CN,,0,0,0,,OP-CN
-Comment: 0,0:21:24.28,0:21:27.06,OP-CN,,0,0,0,,{\fad(300,300)}没错 能够遇见你确实很幸运
-Comment: 0,0:21:27.49,0:21:29.12,OP-CN,,0,0,0,,{\fad(300,300)}但你得搞清楚几点
-Comment: 0,0:21:30.04,0:21:32.38,OP-CN,,0,0,0,,{\fad(300,300)}我可不像你之前遇到的那些女孩
-Comment: 0,0:21:33.17,0:21:34.97,OP-CN,,0,0,0,,{\fad(300,300)}如果你觉得自己有那个本事
-Comment: 0,0:21:35.48,0:21:36.71,OP-CN,,0,0,0,,{\fad(300,300)}那我就在这里等你
-Comment: 0,0:21:37.86,0:21:41.37,OP-CN,,0,0,0,,{\fad(300,300)}我一个人孤独了太久
-Comment: 0,0:21:41.53,0:21:45.03,OP-CN,,0,0,0,,{\fad(300,300)}觉得自己还是独自一人更好
-Comment: 0,0:21:45.24,0:21:48.74,OP-CN,,0,0,0,,{\fad(300,300)}当你寻找爱时 它总躲着不见
-Comment: 0,0:21:48.74,0:21:52.17,OP-CN,,0,0,0,,{\fad(300,300)}我知道你们这些男生就喜欢
-Comment: 0,0:21:52.59,0:21:54.71,OP-CN,,0,0,0,,{\fad(300,300)}This love is 閉じない
-Comment: 0,0:21:54.71,0:21:56.77,OP-CN,,0,0,0,,{\fad(300,300)}逃げて enjoy that
-Comment: 0,0:21:56.77,0:21:58.42,OP-CN,,0,0,0,,{\fad(300,300)}I'm not easy, it's not hard
-Comment: 0,0:21:58.42,0:22:00.46,OP-CN,,0,0,0,,{\fad(300,300)}Just give up girl, so bet their word
-Comment: 0,0:22:00.46,0:22:04.20,OP-CN,,0,0,0,,{\fad(300,300)}就算不用言语表达 你的眼睛也在诉说
-Comment: 0,0:22:04.20,0:22:08.51,OP-CN,,0,0,0,,{\fad(300,300)}关于你的一切
-Comment: 0,0:22:08.52,0:22:12.01,OP-CN,,0,0,0,,{\fad(300,300)}我清楚你背负的所有包袱与重担
-Comment: 0,0:22:12.23,0:22:15.53,OP-CN,,0,0,0,,{\fad(300,300)}There's a beauty in taking a chance letting it guide you
-Comment: 0,0:22:16.15,0:22:20.87,OP-CN,,0,0,0,,{\fad(300,300)}看向水晶球里 没有答案 没有地图 没有向导
-Comment: 0,0:22:20.87,0:22:22.00,OP-CN,,0,0,0,,{\fad(300,300)}跟着感觉走吧
-Comment: 0,0:22:22.85,0:22:26.34,OP-CN,,0,0,0,,{\fad(300,300)}No one will taste(?), I'll be hide and seek
-Comment: 0,0:22:26.56,0:22:30.47,OP-CN,,0,0,0,,{\fad(300,300)}本気並びSo (?) you come find me
-Comment: 0,0:22:30.47,0:22:33.95,OP-CN,,0,0,0,,{\fad(300,300)}(?)なんで信じない
-Comment: 0,0:22:33.95,0:22:37.38,OP-CN,,0,0,0,,{\fad(300,300)}你得向我证明 对我毫无保留
-Comment: 0,0:22:37.38,0:22:40.87,OP-CN,,0,0,0,,{\fad(300,300)}昨夜星辰为我们排列成行
-Comment: 0,0:22:40.87,0:22:44.32,OP-CN,,0,0,0,,{\fad(300,300)}今日我会萦绕在你脑海
-Comment: 0,0:22:44.32,0:22:48.26,OP-CN,,0,0,0,,{\fad(300,300)}I will (?) refly, gonna say さよなら BYEBYE
-Comment: 0,0:22:48.26,0:22:51.00,OP-CN,,0,0,0,,{\fad(300,300)}我不怕把它全部抛开
-Comment: 0,0:22:51.00,0:22:52.41,OP-CN,,0,0,0,,{\fad(300,300)}好好想想吧
+Dialogue: 0,0:21:24.28,0:21:27.06,OP-CN,,0,0,0,,{\fad(300,300)}是啊  能够遇见你确实很幸运
+Dialogue: 0,0:21:27.49,0:21:29.12,OP-CN,,0,0,0,,{\fad(300,300)}但有些事你得搞清楚
+Dialogue: 0,0:21:30.04,0:21:32.38,OP-CN,,0,0,0,,{\fad(300,300)}我可不像你习惯接触的那些女孩
+Dialogue: 0,0:21:33.17,0:21:34.97,OP-CN,,0,0,0,,{\fad(300,300)}如果你觉得自己有那个本事
+Dialogue: 0,0:21:35.48,0:21:36.71,OP-CN,,0,0,0,,{\fad(300,300)}那我就在这里等你
+Dialogue: 0,0:21:37.86,0:21:41.37,OP-CN,,0,0,0,,{\fad(300,300)}我孤身一人太久
+Dialogue: 0,0:21:41.53,0:21:45.03,OP-CN,,0,0,0,,{\fad(300,300)}觉得还是独来独往更自在
+Dialogue: 0,0:21:45.24,0:21:48.74,OP-CN,,0,0,0,,{\fad(300,300)}当你寻找爱时  它总是躲躲藏藏
+Dialogue: 0,0:21:48.74,0:21:52.17,OP-CN,,0,0,0,,{\fad(300,300)}我知道你们这些男生就喜欢玩那些感情把戏
+Dialogue: 0,0:21:52.59,0:21:53.81,OP-CN,,0,0,0,,{\fad(300,300)}人们常说爱情使人盲目
+Dialogue: 0,0:21:53.81,0:21:55.67,OP-CN,,0,0,0,,{\fad(300,300)}眼睛不要闭上  双手紧握不放
+Dialogue: 0,0:21:55.67,0:21:56.77,OP-CN,,0,0,0,,{\fad(300,300)}尽情享受这段旅程
+Dialogue: 0,0:21:56.77,0:21:58.42,OP-CN,,0,0,0,,{\fad(300,300)}我不好追  但也不难懂
+Dialogue: 0,0:21:58.42,0:22:00.46,OP-CN,,0,0,0,,{\fad(300,300)}只要给予她整个世界
+Dialogue: 0,0:22:00.46,0:22:04.20,OP-CN,,0,0,0,,{\fad(300,300)}就算一言不发  你的眼神早已诉说
+Dialogue: 0,0:22:04.20,0:22:08.51,OP-CN,,0,0,0,,{\fad(300,300)}关于你  我想知道的一切
+Dialogue: 0,0:22:08.52,0:22:12.01,OP-CN,,0,0,0,,{\fad(300,300)}我知道你背负着所有的过往与重担
+Dialogue: 0,0:22:12.23,0:22:15.53,OP-CN,,0,0,0,,{\fad(300,300)}勇敢放手一搏  让心指引方向  其中自有美好
+Dialogue: 0,0:22:16.15,0:22:18.03,OP-CN,,0,0,0,,{\fad(300,300)}看向水晶球
+Dialogue: 0,0:22:18.04,0:22:20.87,OP-CN,,0,0,0,,{\fad(300,300)}那里没有答案  没有地图  没有指引
+Dialogue: 0,0:22:20.87,0:22:22.00,OP-CN,,0,0,0,,{\fad(300,300)}跟着你的直觉走就好
+Dialogue: 0,0:22:22.85,0:22:26.34,OP-CN,,0,0,0,,{\fad(300,300)}我不会主动出击  也不会和你玩捉迷藏
+Dialogue: 0,0:22:26.56,0:22:28.85,OP-CN,,0,0,0,,{\fad(300,300)}你要是真心的  就证明给我看
+Dialogue: 0,0:22:28.85,0:22:30.47,OP-CN,,0,0,0,,{\fad(300,300)}快来找到我
+Dialogue: 0,0:22:30.47,0:22:32.07,OP-CN,,0,0,0,,{\fad(300,300)}“你只属于我”
+Dialogue: 0,0:22:32.07,0:22:33.95,OP-CN,,0,0,0,,{\fad(300,300)}这种话我可不信
+Dialogue: 0,0:22:33.95,0:22:37.38,OP-CN,,0,0,0,,{\fad(300,300)}证明给我看  你对我毫无保留
+Dialogue: 0,0:22:37.38,0:22:40.87,OP-CN,,0,0,0,,{\fad(300,300)}昨日星辰为我们连成一线
+Dialogue: 0,0:22:40.87,0:22:44.32,OP-CN,,0,0,0,,{\fad(300,300)}今天我已占据你的脑海
+Dialogue: 0,0:22:44.32,0:22:46.20,OP-CN,,0,0,0,,{\fad(300,300)}我要的是玫瑰  不是危险信号
+Dialogue: 0,0:22:46.20,0:22:48.26,OP-CN,,0,0,0,,{\fad(300,300)}不然就再见吧
+Dialogue: 0,0:22:48.26,0:22:51.00,OP-CN,,0,0,0,,{\fad(300,300)}我不怕抛弃一切
+Dialogue: 0,0:22:51.00,0:22:52.41,OP-CN,,0,0,0,,{\fad(300,300)}再好好想想吧
 Comment: 0,0:00:00.00,0:00:00.00,JP,,0,0,0,,Text-JP
 Dialogue: 0,0:00:09.43,0:00:12.40,JP,,0,0,0,,昨日のカラオケ　マジ盛り上がったよなあ
 Dialogue: 0,0:00:12.73,0:00:14.74,JP,,0,0,0,,前髪決まんねえ
