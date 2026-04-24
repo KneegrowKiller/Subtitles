@@ -10,6 +10,16 @@ PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: no
 
+[Aegisub Project Garbage]
+Audio File: [Tsukigakirei] Otaku ni Yasashii Gal wa Inai - 03 [WEB-DL 1080P AVC-8bit AAC ASSx2].mkv
+Video File: [Tsukigakirei] Otaku ni Yasashii Gal wa Inai - 03 [WEB-DL 1080P AVC-8bit AAC ASSx2].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 795
+Active Line: 805
+Video Position: 15637
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Title,思源黑体 Heavy,64,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,4,0,2,10,10,10,1
@@ -426,7 +436,7 @@ Dialogue: 0,0:10:41.24,0:10:42.10,JP,,0,0,0,,僕だって
 Dialogue: 0,0:10:45.11,0:10:47.10,JP,,0,0,0,,ああ　笑った笑った
 Dialogue: 0,0:10:47.75,0:10:50.23,JP,,0,0,0,,ホント悪熱したよね　お絵描きバトル
 Dialogue: 0,0:10:50.46,0:10:51.83,JP,,0,0,0,,楽しかったですね
-Dialogue: 0,0:10:54.33,0:10:56.05,JP,,0,0,0,,もうちょっとやれてればな　絶対逆転できたのに
+Dialogue: 0,0:10:52.19,0:10:56.05,JP,,0,0,0,,もうちょっとやれてればな　絶対逆転できたのに
 Dialogue: 0,0:10:56.24,0:10:57.99,JP,,0,0,0,,負けず嫌いですね…
 Dialogue: 0,0:11:00.09,0:11:01.83,JP,,0,0,0,,あーっ　すいません…
 Dialogue: 0,0:11:02.00,0:11:05.59,JP,,0,0,0,,だだだ…大丈夫　全然何もないし　何も…
@@ -829,7 +839,7 @@ Dialogue: 0,0:10:41.24,0:10:42.10,CN,,0,0,0,,我也是
 Dialogue: 0,0:10:45.11,0:10:47.10,CN,,0,0,0,,啊  真开心啊
 Dialogue: 0,0:10:47.75,0:10:50.23,CN,,0,0,0,,刚才的绘画比赛真的太上头了
 Dialogue: 0,0:10:50.46,0:10:51.83,CN,,0,0,0,,真有意思啊
-Dialogue: 0,0:10:54.33,0:10:56.05,CN,,0,0,0,,要是再画一会  我绝对能翻盘
+Dialogue: 0,0:10:52.19,0:10:56.05,CN,,0,0,0,,要是再画一会  我绝对能翻盘
 Dialogue: 0,0:10:56.24,0:10:57.99,CN,,0,0,0,,你还真是不服输啊…
 Dialogue: 0,0:11:00.09,0:11:01.83,CN,,0,0,0,,啊  抱歉…
 Dialogue: 0,0:11:02.00,0:11:05.59,CN,,0,0,0,,没没没…没关系  真的…
