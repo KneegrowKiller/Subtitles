@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Staff,思源黑体,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,5,0,1,3,0,2,0,0,30,1
+Style: Staff,方正粗圆_GBK,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,5,0,1,3,0,2,0,0,30,1
 Style: Text-CN,思源黑体,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,3,0,1,3,0,2,0,0,30,1
 Style: ED-JP,FOT-Seurat Pro B,50,&H00FFFFFF,&H000000FF,&H00C0C281,&H00000000,0,0,0,0,100,100,10,0,1,5.5,0,8,10,10,20,1
 Style: ED-CN,方正粗圆_GBK,46,&H00FFFFFF,&H000000FF,&H00C0C281,&H00000000,-1,0,0,0,100,100,12,0,1,5.5,0,2,10,10,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.10,0:00:03.57,Staff,,0,0,0,,{\an8\fad(460,460)\fn方正粗圆_GBK\fs45\b1\fsp0\bord4\blur3\pos(1442,640)}本字幕由 今晚月色真美 个人制作\N{\fs33}仅供练习使用 请勿用于商业用途
+Dialogue: 0,0:00:00.10,0:00:03.57,Staff,,0,0,0,,{\an8\fad(460,460)\fs45\b1\fsp0\bord4\blur3\pos(1442,640)}本字幕由 今晚月色真美 个人制作\N{\fs33}仅供练习使用 请勿用于商业用途
 Comment: 0,0:00:00.00,0:00:00.00,ED-JP,,0,0,0,,ED-JP
 Dialogue: 0,0:22:18.90,0:22:21.95,ED-JP,,0,0,0,,{\fad(200,200)}位置情報は２４時間共有
 Dialogue: 0,0:22:23.24,0:22:26.28,ED-JP,,0,0,0,,{\fad(200,200)}休日の返信は１０分ルール
@@ -440,9 +440,9 @@ Dialogue: 0,0:21:16.82,0:21:17.73,Text-CN,,0,0,0,,弥生小姐？
 Dialogue: 0,0:21:17.98,0:21:19.92,Text-CN,,0,0,0,,这么快就知道是我啊
 Dialogue: 0,0:21:21.17,0:21:24.87,Text-CN,,0,0,0,,客人的信息我们都有保存嘛
 Dialogue: 0,0:21:25.84,0:21:27.46,Text-CN,,0,0,0,,抱歉在你工作时间打扰
-Dialogue: 0,0:21:27.96,0:21:30.42,Text-CN,,0,0,0,,请问纱月有没有回去？
-Dialogue: 0,0:21:30.63,0:21:34.36,Text-CN,,0,0,0,,小纱月没有回来啊
-Dialogue: 0,0:21:49.97,0:21:51.39,Text-CN,,0,0,200,,{\fs30\fsp0}Don't  be  late,  okay?\N{\fs80\fsp3}别迟到了
+Dialogue: 0,0:21:27.96,0:21:30.20,Text-CN,,0,0,0,,请问纱月有没有回去？
+Dialogue: 0,0:21:31.58,0:21:34.36,Text-CN,,0,0,0,,小纱月没有回来啊
+Dialogue: 0,0:21:49.97,0:21:51.39,Text-CN,,0,0,200,,{\fs40\fsp0}Don't  be  late,  okay?\N{\fs80\fsp3}别迟到了
 Dialogue: 0,0:21:51.40,0:21:54.21,Text-CN,,0,0,200,,{\fs40\fsp0}Oh,  and  lock  the  windows  when  you  leave.\N{\fs80\fsp3}还有走的时候记得关窗户
 Dialogue: 0,0:21:55.71,0:21:56.77,Text-CN,,0,0,0,,麻烦你了
 Dialogue: 0,0:22:06.97,0:22:09.26,Text-CN,,0,0,0,,住宿真麻烦
@@ -450,8 +450,8 @@ Comment: 0,0:00:00.00,0:00:00.00,Text-CN,,0,0,0,,Screen
 Dialogue: 0,0:11:37.11,0:11:38.59,Text-CN,,0,0,0,,{\fad(503,0)\c&HF2D18B&\3c&HFFB9C8&\bord3\t(\fsp18)\pos(1145.66,86)}毫不在乎
 Dialogue: 0,0:11:52.31,0:11:56.94,Text-CN,,0,0,0,,{\an7\fs30\b0\bord0\fsp0\c&H767878&\fay-0.03\frz2.585\pos(885.33,380.67)}给多摩代\N\N\N没事的！\N深呼吸！\N可以试着把心里所有的不安\N都写在这里。
 Dialogue: 0,0:11:52.31,0:11:56.94,Text-CN,,0,0,0,,{\an7\fs30\b0\bord0\fsp0\c&H767878&\fay-0.03\frz4.016\pos(920,804.67)}给哥哥\N\N\N马上就是正式考试了\N紧张到胃痛。\N每天都焦虑得睡不着觉。\N感觉要死了。救救我。要抑郁了
-Dialogue: 0,0:13:39.42,0:13:46.01,Text-CN,,0,0,0,,{\c&H358551&\3c&H9DF29B&\frz351.5\fax0.35\move(1364,372,1364,-20,24,3244)}你到老家了吗？
-Dialogue: 0,0:13:39.42,0:13:46.01,Text-CN,,0,0,0,,{\c&H266437&\3c&H59D662&\frz351.5\fax0.35\move(1430,914.5,1430,137.29,24,6573)}搬家的事弄完了？
-Dialogue: 0,0:13:39.42,0:13:46.01,Text-CN,,0,0,0,,{\c&H266437&\3c&H6FE070&\frz351.5\fax0.35\move(1510,1450,1510,672.79,23,6573)}你要去的学校在松本？
-Dialogue: 0,0:19:31.39,0:19:43.87,Text-CN,,0,0,0,,{\bord0\fs60\fsp0\c&H3C424F&\fax0.1\b0\frz5.68\pos(1000,325)}馆花旅馆
+Dialogue: 0,0:13:39.42,0:13:46.01,Text-CN,,0,0,0,,{\b0\bord0\c&H193626&\3c&H9DF29B&\frz351.5\fax0.35\move(1364,372,1364,-20,24,3244)}你到老家了吗？
+Dialogue: 0,0:13:39.42,0:13:46.01,Text-CN,,0,0,0,,{\b0\bord0\c&H193626&\3c&H59D662&\frz351.5\fax0.35\move(1430,914.5,1430,137.29,24,6573)}搬家的事弄完了？
+Dialogue: 0,0:13:39.42,0:13:46.01,Text-CN,,0,0,0,,{\b0\bord0\c&H193626&\3c&H6FE070&\frz351.5\fax0.35\move(1510,1450,1510,672.79,23,6573)}你是要去松本的高中？
+Dialogue: 0,0:19:31.39,0:19:43.87,Text-CN,,0,0,0,,{\bord0\fs60\fsp0\c&H3C424F&\fax0.1\b0\pos(1000,325)\frz7.413}馆花旅馆
 Dialogue: 0,0:21:02.61,0:21:07.16,Text-CN,,0,0,0,,{\fs40\bord0\c&H3F3E3A&\b0\frz3.264\fax0.08\pos(960,577)}馆花旅馆
