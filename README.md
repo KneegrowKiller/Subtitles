@@ -5,7 +5,7 @@
 
 关于字幕的详情，请前往 [项目表](https://github.com/users/KneegrowKiller/projects/4) 查看
 
-如果需要下载压制好的成片，请访移步[ACG.RIP](https://acg.rip/team/218)、[AniBT](https://anibt.net/group/tsukigakirei)、[动漫花园](https://share.dmhy.org/topics/list/user_id/760495)、[蜜柑计划](https://mikanani.me/Home/PublishGroup/417)
+如果需要下载压制好的成片，请访移步[ACG.RIP](https://acg.rip/team/218)、[Anibt](https://anibt.net/group/tsukigakirei)、[动漫花园](https://share.dmhy.org/topics/list/user_id/760495)、[蜜柑计划](https://mikanani.me/Home/PublishGroup/417)
 
 <br>
 
