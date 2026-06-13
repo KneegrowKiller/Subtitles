@@ -19,8 +19,8 @@ Style: ED,FOT-Humming Std D,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:05.00,Staff,,0,0,0,,{\fad(1000,1000)}本字幕由 今晚月色真美 个人制作\N{\fs45}仅供练习使用  请勿用于商业用途
-Dialogue: 0,0:02:49.15,0:03:00.02,Title,,0,0,0,,{\fad(2000,0)\1c&HC88D63&\pos(960,800)}那时的她。
+Dialogue: 0,0:00:00.09,0:00:05.09,Staff,,0,0,0,,{\fad(1000,1000)}本字幕由 今晚月色真美 个人制作\N{\fs45}仅供练习使用  请勿用于商业用途
+Dialogue: 0,0:02:49.33,0:03:00.07,Title,,0,0,0,,{\fad(2000,0)\1c&HC88D63&\pos(960,800)}那时的她。
 Dialogue: 0,0:00:02.84,0:00:04.62,JP,,0,0,0,,ねえ　知ってる？
 Dialogue: 0,0:00:05.72,0:00:07.28,JP,,0,0,0,,ただいま
 Dialogue: 0,0:00:10.40,0:00:13.04,JP,,0,0,0,,テっちゃん　すごいよ　さくらがね…
@@ -62,7 +62,7 @@ Dialogue: 0,0:02:09.02,0:02:09.76,CN,,0,0,0,,但是啊
 Dialogue: 0,0:02:14.02,0:02:15.70,CN,,0,0,0,,即便如此却还是想和你一起
 Dialogue: 0,0:02:17.88,0:02:19.96,CN,,0,0,0,,与你一起看同样的风景
 Dialogue: 0,0:02:35.98,0:02:37.40,CN,,0,0,0,,你知道吗？
-Dialogue: 0,0:02:38.92,0:02:39.64,CN,,0,0,0,,我好喜欢你
+Dialogue: 0,0:02:38.92,0:02:39.64,CN,,0,0,0,,最喜欢你了
 Dialogue: 0,0:02:08.40,0:02:16.80,ED,,0,0,0,,{\an8\blur5\1c&HE11BFD&\3c&HFFFFFF&\3aH80\fad(500,500)}ずっと前から彼のこと　好きだった
 Dialogue: 0,0:02:17.08,0:02:20.04,ED,,0,0,0,,{\an8\blur5\1c&HE11BFD&\3c&HFFFFFF&\3aH80\fad(500,500)}誰よりも
 Dialogue: 0,0:02:20.42,0:02:25.74,ED,,0,0,0,,{\an8\blur5\1c&HE11BFD&\3c&HFFFFFF&\3aH80\fad(500,500)}やっと私に来たチャンス
@@ -71,4 +71,4 @@ Dialogue: 0,0:02:32.74,0:02:38.34,ED,,0,0,0,,{\an8\blur5\1c&HE11BFD&\3c&HFFFFFF&
 Dialogue: 0,0:02:38.70,0:02:44.42,ED,,0,0,0,,{\an8\blur5\1c&HE11BFD&\3c&HFFFFFF&\3aH80\fad(500,500)}走り寄るまなざしに
 Dialogue: 0,0:02:44.78,0:02:49.60,ED,,0,0,0,,{\an8\blur5\1c&HE11BFD&\3c&HFFFFFF&\3aH80\fad(500,500)}Majiでkoiしちゃいそうな
 Dialogue: 0,0:02:49.72,0:02:56.16,ED,,0,0,0,,{\an8\blur5\1c&HE11BFD&\3c&HFFFFFF&\3aH80\fad(500,500)}約束の５秒前
-Dialogue: 0,0:02:56.46,0:02:59.98,ED,,0,0,0,,{\an8\blur5\1c&HE11BFD&\3c&HFFFFFF&\3aH80\fad(500,0)}One, two, three, four, five
+Dialogue: 0,0:02:56.46,0:02:59.98,ED,,0,0,0,,{\an8\blur5\1c&HE11BFD&\3c&HFFFFFF&\3aH80\fad(500,500)}One, two, three, four, five

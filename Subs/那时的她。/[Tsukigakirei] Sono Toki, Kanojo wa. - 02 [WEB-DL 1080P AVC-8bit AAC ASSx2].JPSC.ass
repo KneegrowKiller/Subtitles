@@ -19,9 +19,9 @@ Style: ED,FOT-Humming Std D,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.02,0:00:06.42,Staff,,0,0,0,,{\fad(400,400)}本字幕由 今晚月色真美 个人制作\N{\fs45}仅供练习使用  请勿用于商业用途
-Dialogue: 1,0:00:00.02,0:00:03.35,Title,,0,0,0,,{\fad(1000,500)\1c&HCC7B43&\pos(960,840)}那时的她。
-Dialogue: 1,0:00:03.35,0:00:06.42,Title,,0,0,0,,{\fad(1000,1000)\1c&HFE5CD9&\pos(960,840)}他的失言
+Dialogue: 0,0:00:00.36,0:00:06.42,Staff,,0,0,0,,{\fad(400,400)}本字幕由 今晚月色真美 个人制作\N{\fs45}仅供练习使用  请勿用于商业用途
+Dialogue: 0,0:00:00.36,0:00:03.35,Title,,0,0,0,,{\fad(1000,500)\1c&HCC7B43&\pos(960,840)}那时的她。
+Dialogue: 0,0:00:03.35,0:00:06.42,Title,,0,0,0,,{\fad(1000,1000)\1c&HFE5CD9&\pos(960,840)}他的失言
 Dialogue: 0,0:00:03.28,0:00:04.04,JP,,0,0,0,,言うな
 Dialogue: 0,0:00:04.46,0:00:05.14,JP,,0,0,0,,言うな
 Dialogue: 0,0:00:05.78,0:00:06.48,JP,,0,0,0,,言うな
@@ -141,4 +141,4 @@ Dialogue: 0,0:02:28.02,0:02:36.32,ED,,0,0,0,,{\blur5\1c&HE11BFD&\3c&HFFFFFF&\3aH
 Dialogue: 0,0:02:36.72,0:02:39.88,ED,,0,0,0,,{\blur5\1c&HE11BFD&\3c&HFFFFFF&\3aH80\fad(500,500)}誰よりも
 Dialogue: 0,0:02:40.38,0:02:44.98,ED,,0,0,0,,{\blur5\1c&HE11BFD&\3c&HFFFFFF&\3aH80\fad(500,500)}Majiでkoiしちゃいそうな
 Dialogue: 0,0:02:45.35,0:02:51.78,ED,,0,0,0,,{\blur5\1c&HE11BFD&\3c&HFFFFFF&\3aH80\fad(500,500)}約束の５秒前
-Dialogue: 0,0:02:52.02,0:02:54.58,ED,,0,0,0,,{\blur5\1c&HE11BFD&\3c&HFFFFFF&\3aH80\fad(500,0)}One, two, three, four, five
+Dialogue: 0,0:02:52.02,0:02:54.58,ED,,0,0,0,,{\blur5\1c&HE11BFD&\3c&HFFFFFF&\3aH80\fad(500,500)}One, two, three, four, five
