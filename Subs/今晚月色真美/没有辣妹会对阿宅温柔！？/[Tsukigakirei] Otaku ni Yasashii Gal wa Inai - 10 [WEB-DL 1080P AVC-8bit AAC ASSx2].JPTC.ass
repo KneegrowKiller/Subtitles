@@ -26,7 +26,7 @@ Style: ED-CN-2,方正韵动粗黑_GBK,47,&H00B99CFF,&H000000FF,&H00962CBE,&H0000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:03:24.06,0:03:25.64,Title,,0,0,0,,{\an8\bord0\1c&HB4A09B&\t(\fscx96\fscy96\move(960,120,960,138))}本字幕由{\1c&HEABE87&} 今晚月色真美 {\1c&HB4A09B&}個人製作\N{\fs48\1c&HB596FF&}僅供練習使用  {\1c&H2EDDC3&}請勿用於商業用途
-Dialogue: 0,0:03:27.15,0:03:32.11,Title,,0,0,0,,{\pos(1461,900)\fad(501,959)\fs72\1c&H2EDEC4&\pos(1217,907)}第10個小時{\1c&HBAA5A0&}『{\1c&HE7C18C&}學園祭{\1c&HBAA5A0&}!!』
+Dialogue: 0,0:03:27.15,0:03:32.11,Title,,0,0,0,,{\pos(1461,900)\fad(501,959)\fs72\1c&H2EDEC4&}第10個小時{\1c&HBAA5A0&}『{\1c&HE7C18C&}學園祭{\1c&HBAA5A0&}!!』
 Comment: 0,0:00:00.00,0:00:00.00,OP-JP,,0,0,0,,OP-JP
 Dialogue: 0,0:01:58.31,0:02:00.22,OP-JP,,0,0,0,,{\fad(300,0)\1c&HFF1FB2&\4c&HFAF61C&}Yeah, it was nice to meet you and everything
 Dialogue: 0,0:02:00.22,0:02:00.98,OP-JP,,0,0,0,,{\fad(0,300)\1c&H17FCFF&\4c&HEB01F8&}Yeah, it was nice to meet you and everything
