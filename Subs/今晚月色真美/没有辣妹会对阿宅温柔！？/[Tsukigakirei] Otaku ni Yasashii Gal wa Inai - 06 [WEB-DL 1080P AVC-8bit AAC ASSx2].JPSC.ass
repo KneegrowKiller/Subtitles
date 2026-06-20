@@ -50,11 +50,11 @@ Dialogue: 0,0:02:08.40,0:02:10.40,OP-JP,,0,0,0,,{\fad(300,300)\1c&H17FCFF&\4c&HE
 Dialogue: 0,0:02:10.40,0:02:14.16,OP-JP,,0,0,0,,{\fad(300,300)\1c&H17FCFF&\4c&HEB01F8&}何も言わなくても Your eyes are saying
 Dialogue: 0,0:02:14.16,0:02:18.45,OP-JP,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}All that I need to know from you
 Dialogue: 0,0:02:18.45,0:02:19.58,OP-JP,,0,0,0,,{\fad(300,0)\1c&HDF01FD&\4c&HF8C191&}I know all of the baggage and burdens you carry beside you
-Dialogue: 0,0:02:19.58,0:02:21.95,OP-JP,,0,0,0,,{\fad(0,300)\1c&H03C5FE&\4c&HA95544&}I know all of the baggage and burdens you carry beside you
+Dialogue: 0,0:02:19.58,0:02:21.96,OP-JP,,0,0,0,,{\fad(0,300)\1c&H03C5FE&\4c&HA95544&}I know all of the baggage and burdens you carry beside you
 Dialogue: 0,0:02:22.33,0:02:25.46,OP-JP,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}There's a beauty in taking a chance and letting it guide you
 Dialogue: 0,0:02:26.08,0:02:28.04,OP-JP,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}Look inside the crystal
 Dialogue: 0,0:02:28.04,0:02:30.84,OP-JP,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}There's no answers, no map, no guide
-Dialogue: 0,0:02:30.84,0:02:31.96,OP-JP,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}Follow what you feeling
+Dialogue: 0,0:02:30.84,0:02:31.97,OP-JP,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}Follow what you feeling
 Dialogue: 0,0:02:32.80,0:02:36.30,OP-JP,,0,0,0,,{\fad(300,300)\1c&H01FDFB\4c&H6346F9&}No, I don't chase, I don't play hide and seek
 Dialogue: 0,0:02:36.51,0:02:38.81,OP-JP,,0,0,0,,{\fad(300,300)\1c&H01FDFB\4c&H6346F9&}本気なら見せてよ
 Dialogue: 0,0:02:38.81,0:02:40.43,OP-JP,,0,0,0,,{\fad(300,300)\1c&H01FDFB\4c&H6346F9&}Come find me
@@ -67,10 +67,11 @@ Dialogue: 0,0:02:50.82,0:02:54.28,OP-JP,,0,0,0,,{\fad(300,300)\1c&HFFFE00&\4c&HF
 Dialogue: 0,0:02:54.28,0:02:56.16,OP-JP,,0,0,0,,{\fad(300,300)\1c&HFFFE00&\4c&HF17DF7&}I want roses, no red flags
 Dialogue: 0,0:02:56.16,0:02:56.53,OP-JP,,0,0,0,,{\fad(300,0)\1c&HFFFE00&\4c&HF17DF7&}Gonna say さよなら Bye bye
 Dialogue: 0,0:02:56.53,0:02:58.20,OP-JP,,0,0,0,,{\fad(0,300)\1c&HFFFE00&\4c&HC8BF58&}Gonna say さよなら Bye bye
-Dialogue: 0,0:02:58.37,0:02:58.87,OP-JP,,0,0,0,,{\fad(0,0)\bord3\shad0\1c&HEABE87&\3c&HFFFFFF&}I'm not afraid to throw it all away
+Dialogue: 0,0:02:58.37,0:02:58.87,OP-JP,,0,0,0,,{\bord3\shad0\1c&HEABE87&\3c&HFFFFFF&}I'm not afraid to throw it all away
 Dialogue: 0,0:02:58.87,0:02:59.33,OP-JP,,0,0,0,,{\bord3\shad0\1c&HB596FF&\3c&HFFFFFF&}I'm not afraid to throw it all away
 Dialogue: 0,0:02:59.33,0:02:59.58,OP-JP,,0,0,0,,{\bord3\shad0\1c&HEABE87&\3c&HFFFFFF&}I'm not afraid to throw it all away
-Dialogue: 0,0:02:59.58,0:03:00.95,OP-JP,,0,0,0,,{\fad(0,300)\bord3\shad0\1c&HB596FF&\3c&HFFFFFF&}I'm not afraid to throw it all away
+Dialogue: 0,0:02:59.58,0:02:59.83,OP-JP,,0,0,0,,{\bord3\shad0\1c&HEABE87&\3c&HFFFFFF&}I'm not afraid to throw it all away
+Dialogue: 0,0:02:59.83,0:03:00.95,OP-JP,,0,0,0,,{\fad(0,300)\bord3\shad0\1c&HB596FF&\3c&HFFFFFF&}I'm not afraid to throw it all away
 Dialogue: 0,0:03:00.95,0:03:01.66,OP-JP,,0,0,0,,{\fad(300,0)\bord0\shad0\1c&HB596FF&}Think twice about it
 Dialogue: 0,0:03:01.66,0:03:02.37,OP-JP,,0,0,0,,{\fad(0,300)\1c&H01FDFB\4c&H6346F9&}Think twice about it
 Comment: 0,0:00:00.00,0:00:00.00,OP-CN,,0,0,0,,OP-CN
@@ -97,11 +98,11 @@ Dialogue: 0,0:02:08.40,0:02:10.40,OP-CN,,0,0,0,,{\fad(300,300)\1c&H17FCFF&\4c&HE
 Dialogue: 0,0:02:10.40,0:02:14.16,OP-CN,,0,0,0,,{\fad(300,300)\1c&H17FCFF&\4c&HEB01F8&}就算一言不发  你的眼神早已诉说
 Dialogue: 0,0:02:14.16,0:02:18.45,OP-CN,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}关于你  我想知道的一切
 Dialogue: 0,0:02:18.45,0:02:19.58,OP-CN,,0,0,0,,{\fad(300,0)\1c&HDF01FD&\4c&HF8C191&}我知道你背负着所有的过往与重担
-Dialogue: 0,0:02:19.58,0:02:21.95,OP-CN,,0,0,0,,{\fad(0,300)\1c&H03C5FE&\4c&HA95544&}我知道你背负着所有的过往与重担
+Dialogue: 0,0:02:19.58,0:02:21.96,OP-CN,,0,0,0,,{\fad(0,300)\1c&H03C5FE&\4c&HA95544&}我知道你背负着所有的过往与重担
 Dialogue: 0,0:02:22.33,0:02:25.46,OP-CN,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}勇敢放手一搏  让心指引方向  其中自有美好
 Dialogue: 0,0:02:26.08,0:02:28.04,OP-CN,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}看向水晶球
 Dialogue: 0,0:02:28.04,0:02:30.84,OP-CN,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}那里没有答案  没有地图  没有指引
-Dialogue: 0,0:02:30.84,0:02:31.96,OP-CN,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}跟着你的直觉走就好
+Dialogue: 0,0:02:30.84,0:02:31.97,OP-CN,,0,0,0,,{\fad(300,300)\1c&HDF01FD&\4c&HF8C191&}跟着你的直觉走就好
 Dialogue: 0,0:02:32.80,0:02:36.30,OP-CN,,0,0,0,,{\fad(300,300)\1c&H01FDFB\4c&H6346F9&}我不会主动出击  也不会和你玩捉迷藏
 Dialogue: 0,0:02:36.51,0:02:38.81,OP-CN,,0,0,0,,{\fad(300,300)\1c&H01FDFB\4c&H6346F9&}你要是真心的  就证明给我看
 Dialogue: 0,0:02:38.81,0:02:40.43,OP-CN,,0,0,0,,{\fad(300,300)\1c&H01FDFB\4c&H6346F9&}快来找到我
@@ -114,10 +115,11 @@ Dialogue: 0,0:02:50.82,0:02:54.28,OP-CN,,0,0,0,,{\fad(300,300)\1c&HFFFE00&\4c&HF
 Dialogue: 0,0:02:54.28,0:02:56.16,OP-CN,,0,0,0,,{\fad(300,300)\1c&HFFFE00&\4c&HF17DF7&}我要的是玫瑰  不是危险信号
 Dialogue: 0,0:02:56.16,0:02:56.53,OP-CN,,0,0,0,,{\fad(300,0)\1c&HFFFE00&\4c&HF17DF7&}不然就再见吧
 Dialogue: 0,0:02:56.53,0:02:58.20,OP-CN,,0,0,0,,{\fad(0,300)\1c&HFFFE00&\4c&HC8BF58&}不然就再见吧
-Dialogue: 0,0:02:58.37,0:02:58.87,OP-CN,,0,0,0,,{\fad(0,0)\bord3\shad0\1c&HEABE87&\3c&HFFFFFF&}我不怕抛弃一切
+Dialogue: 0,0:02:58.37,0:02:58.87,OP-CN,,0,0,0,,{\bord3\shad0\1c&HEABE87&\3c&HFFFFFF&}我不怕抛弃一切
 Dialogue: 0,0:02:58.87,0:02:59.33,OP-CN,,0,0,0,,{\bord3\shad0\1c&HB596FF&\3c&HFFFFFF&}我不怕抛弃一切
 Dialogue: 0,0:02:59.33,0:02:59.58,OP-CN,,0,0,0,,{\bord3\shad0\1c&HEABE87&\3c&HFFFFFF&}我不怕抛弃一切
-Dialogue: 0,0:02:59.58,0:03:00.95,OP-CN,,0,0,0,,{\fad(0,300)\bord3\shad0\1c&HB596FF&\3c&HFFFFFF&}我不怕抛弃一切
+Dialogue: 0,0:02:59.58,0:02:59.83,OP-CN,,0,0,0,,{\bord3\shad0\1c&HEABE87&\3c&HFFFFFF&}我不怕抛弃一切
+Dialogue: 0,0:02:59.83,0:03:00.95,OP-CN,,0,0,0,,{\fad(0,300)\bord3\shad0\1c&HB596FF&\3c&HFFFFFF&}我不怕抛弃一切
 Dialogue: 0,0:03:00.95,0:03:01.66,OP-CN,,0,0,0,,{\fad(300,0)\bord0\shad0\1c&HB596FF&}再好好想想吧
 Dialogue: 0,0:03:01.66,0:03:02.37,OP-CN,,0,0,0,,{\fad(0,300)\1c&H01FDFB\4c&H6346F9&}再好好想想吧
 Comment: 0,0:00:00.00,0:00:00.00,ED-JP-1,,0,0,0,,ED-JP-1

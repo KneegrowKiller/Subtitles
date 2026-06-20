@@ -67,10 +67,11 @@ Dialogue: 0,0:02:58.83,0:03:02.29,OP-JP,,0,0,0,,{\fad(300,300)\1c&HFFFE00&\4c&HF
 Dialogue: 0,0:03:02.29,0:03:04.16,OP-JP,,0,0,0,,{\fad(300,300)\1c&HFFFE00&\4c&HF17DF7&}I want roses, no red flags
 Dialogue: 0,0:03:04.16,0:03:04.54,OP-JP,,0,0,0,,{\fad(300,0)\1c&HFFFE00&\4c&HF17DF7&}Gonna say さよなら Bye bye
 Dialogue: 0,0:03:04.54,0:03:06.21,OP-JP,,0,0,0,,{\fad(0,300)\1c&HFFFE00&\4c&HC8BF58&}Gonna say さよなら Bye bye
-Dialogue: 0,0:03:06.37,0:03:06.87,OP-JP,,0,0,0,,{\fad(0,0)\bord3\shad0\1c&HEABE87&\3c&HFFFFFF&}I'm not afraid to throw it all away
-Dialogue: 0,0:03:06.87,0:03:07.33,OP-JP,,0,0,0,,{\bord3\shad0\1c&HB596FF&\3c&HFFFFFF&}I'm not afraid to throw it all away
+Dialogue: 0,0:03:06.37,0:03:06.88,OP-JP,,0,0,0,,{\bord3\shad0\1c&HEABE87&\3c&HFFFFFF&}I'm not afraid to throw it all away
+Dialogue: 0,0:03:06.88,0:03:07.33,OP-JP,,0,0,0,,{\bord3\shad0\1c&HB596FF&\3c&HFFFFFF&}I'm not afraid to throw it all away
 Dialogue: 0,0:03:07.33,0:03:07.58,OP-JP,,0,0,0,,{\bord3\shad0\1c&HEABE87&\3c&HFFFFFF&}I'm not afraid to throw it all away
-Dialogue: 0,0:03:07.58,0:03:08.96,OP-JP,,0,0,0,,{\fad(0,300)\bord3\shad0\1c&HB596FF&\3c&HFFFFFF&}I'm not afraid to throw it all away
+Dialogue: 0,0:03:07.58,0:03:07.83,OP-JP,,0,0,0,,{\bord3\shad0\1c&HEABE87&\3c&HFFFFFF&}I'm not afraid to throw it all away
+Dialogue: 0,0:03:07.83,0:03:08.96,OP-JP,,0,0,0,,{\fad(0,300)\bord3\shad0\1c&HB596FF&\3c&HFFFFFF&}I'm not afraid to throw it all away
 Dialogue: 0,0:03:08.96,0:03:09.67,OP-JP,,0,0,0,,{\fad(300,0)\bord0\shad0\1c&HB596FF&}Think twice about it
 Dialogue: 0,0:03:09.67,0:03:10.38,OP-JP,,0,0,0,,{\fad(0,300)\1c&H01FDFB\4c&H6346F9&}Think twice about it
 Comment: 0,0:00:00.00,0:00:00.00,OP-CN,,0,0,0,,OP-CN
@@ -114,10 +115,11 @@ Dialogue: 0,0:02:58.83,0:03:02.29,OP-CN,,0,0,0,,{\fad(300,300)\1c&HFFFE00&\4c&HF
 Dialogue: 0,0:03:02.29,0:03:04.16,OP-CN,,0,0,0,,{\fad(300,300)\1c&HFFFE00&\4c&HF17DF7&}我要的是玫瑰  不是危险信号
 Dialogue: 0,0:03:04.16,0:03:04.54,OP-CN,,0,0,0,,{\fad(300,0)\1c&HFFFE00&\4c&HF17DF7&}不然就再见吧
 Dialogue: 0,0:03:04.54,0:03:06.21,OP-CN,,0,0,0,,{\fad(0,300)\1c&HFFFE00&\4c&HC8BF58&}不然就再见吧
-Dialogue: 0,0:03:06.37,0:03:06.87,OP-CN,,0,0,0,,{\fad(0,0)\bord3\shad0\1c&HEABE87&\3c&HFFFFFF&}我不怕抛弃一切
-Dialogue: 0,0:03:06.87,0:03:07.33,OP-CN,,0,0,0,,{\bord3\shad0\1c&HB596FF&\3c&HFFFFFF&}我不怕抛弃一切
+Dialogue: 0,0:03:06.37,0:03:06.88,OP-CN,,0,0,0,,{\bord3\shad0\1c&HEABE87&\3c&HFFFFFF&}我不怕抛弃一切
+Dialogue: 0,0:03:06.88,0:03:07.33,OP-CN,,0,0,0,,{\bord3\shad0\1c&HB596FF&\3c&HFFFFFF&}我不怕抛弃一切
 Dialogue: 0,0:03:07.33,0:03:07.58,OP-CN,,0,0,0,,{\bord3\shad0\1c&HEABE87&\3c&HFFFFFF&}我不怕抛弃一切
-Dialogue: 0,0:03:07.58,0:03:08.96,OP-CN,,0,0,0,,{\fad(0,300)\bord3\shad0\1c&HB596FF&\3c&HFFFFFF&}我不怕抛弃一切
+Dialogue: 0,0:03:07.58,0:03:07.83,OP-CN,,0,0,0,,{\bord3\shad0\1c&HEABE87&\3c&HFFFFFF&}我不怕抛弃一切
+Dialogue: 0,0:03:07.83,0:03:08.96,OP-CN,,0,0,0,,{\fad(0,300)\bord3\shad0\1c&HB596FF&\3c&HFFFFFF&}我不怕抛弃一切
 Dialogue: 0,0:03:08.96,0:03:09.67,OP-CN,,0,0,0,,{\fad(300,0)\bord0\shad0\1c&HB596FF&}再好好想想吧
 Dialogue: 0,0:03:09.67,0:03:10.38,OP-CN,,0,0,0,,{\fad(0,300)\1c&H01FDFB\4c&H6346F9&}再好好想想吧
 Comment: 0,0:00:00.00,0:00:00.00,ED-JP-1,,0,0,0,,ED-JP-1
@@ -663,7 +665,7 @@ Dialogue: 0,0:01:32.09,0:01:35.09,CN,,0,0,0,,她…她要是这么想的话  我
 Dialogue: 0,0:01:35.87,0:01:37.35,CN,,0,0,0,,那我也…
 Dialogue: 0,0:01:37.91,0:01:38.85,CN,,0,0,0,,什么意思啊
 Dialogue: 0,0:01:39.23,0:01:40.51,CN,,0,0,0,,不要摆出那副表情！
-Dialogue: 0,0:03:13.67,0:03:16.93,CN,,0,840,0,,Yeah  一起把班上的气氛搞起来吧
+Dialogue: 0,0:03:13.67,0:03:16.93,CN,,0,840,0,,Yeah  一起嗨到最后一刻吧
 Dialogue: 0,0:03:17.92,0:03:20.17,CN,,0,0,0,,平成辣妹太可爱了
 Dialogue: 0,0:03:20.17,0:03:21.28,CN,,0,0,0,,多谢
 Dialogue: 0,0:03:21.28,0:03:22.47,CN,,0,0,0,,快请进
