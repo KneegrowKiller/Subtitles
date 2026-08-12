@@ -10,7 +10,7 @@ PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Title,方正静蕾简体,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
+Style: Title,可你不是我的呀,84,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
 Style: JP,Source Han Sans JP Medium,48,&H00FFFFFF,&H000000FF,&H00A97494,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,20,1
 Style: CN,思源黑体 Medium,72,&H00FFFFFF,&H000000FF,&H00A97494,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,10,10,20,1
 Style: ED-JP,Source Han Sans JP,64,&H00A97494,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,20,1
@@ -20,7 +20,7 @@ Style: ED-CN,思源黑体,64,&H00A97494,&H000000FF,&H00000000,&H00000000,0,0,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.27,0:00:03.94,Title,,0,0,0,,{\fad(1336,0)\an8\fs72\bord0}本字幕由 今晚月色真美 个人制作\N{\fs64}仅供练习使用  请勿用于商业用途
 Dialogue: 0,0:00:03.94,0:00:14.20,Title,,0,0,0,,{\an8\fs72\1c&H7A4D5A&}本字幕由 今晚月色真美 个人制作\N{\fs64}仅供练习使用  请勿用于商业用途
-Dialogue: 1,0:00:14.20,0:00:18.21,Title,,0,0,0,,{\bord1\blur5\1c&H7A4D5A&\3c&HE1E0E4&\pos(1258,654)}结束也是开始
+Dialogue: 1,0:00:14.20,0:00:18.21,Title,,0,0,0,,{\an5\bord1\blur5\fax-0.2\1c&H7A4D5A&\3c&HE1E0E4&\pos(1268,688)}结束也是开始
 Dialogue: 0,0:00:14.20,0:00:18.21,Title,,0,0,0,,{\an7\bord6\blur10\1c&HE1E0E4&\3c&H7A4D5A&\pos(1050,640)\p1}m  0  0  l  420  0  420  90  0  90
 Comment: 0,0:00:00.00,0:00:00.00,ED-JP,,0,0,0,,ED-JP
 Dialogue: 0,0:03:12.80,0:03:16.13,ED-JP,,0,0,0,,{\fad(300,300)}ハイファイな空
@@ -179,5 +179,5 @@ Dialogue: 0,0:02:22.58,0:02:23.33,CN,,0,0,0,,{\1c&H7D4C5A&\3c&HFFFFFF&\pos(1520,
 Dialogue: 0,0:02:23.33,0:02:23.37,CN,,0,0,0,,{\1c&H7D4C5A&\3c&HFFFFFF&\pos(1520,368)}我也一样…
 Dialogue: 0,0:02:23.37,0:02:23.41,CN,,0,0,0,,{\1c&H7D4C5A&\3c&HFFFFFF&\pos(1520,236)}我也一样…
 Dialogue: 0,0:02:23.41,0:02:24.17,CN,,0,0,0,,{\1c&H7D4C5A&\3c&HFFFFFF&\pos(1520,106)}我也一样…
-Dialogue: 1,0:02:25.42,0:02:30.55,CN,,0,0,0,,{\an5\fn方正静蕾简体\fs72\blur5\1c&H7A4D5A&\3c&HE1E0E4&\pos(960,686)}几天后……
+Dialogue: 1,0:02:25.42,0:02:30.55,CN,,0,0,0,,{\an5\fn可你不是我的呀\fs84\blur5\1c&H7A4D5A&\3c&HE1E0E4&\pos(960,688)}几天后……
 Dialogue: 0,0:02:25.42,0:02:30.55,CN,,0,0,0,,{\an5\bord6\blur10\1c&HE1E0E4&\3c&H7A4D5A&\pos(960,684)\p1}m  0  0  l  360  0  360  90  0  90
