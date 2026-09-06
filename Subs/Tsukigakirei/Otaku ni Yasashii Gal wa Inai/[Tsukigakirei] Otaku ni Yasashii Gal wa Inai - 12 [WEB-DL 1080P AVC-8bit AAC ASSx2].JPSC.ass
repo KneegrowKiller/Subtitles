@@ -26,7 +26,7 @@ Style: ED-CN-2,方正韵动粗黑_GBK,39,&H00B99CFF,&H000000FF,&H00962CBE,&H0000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:23:05.99,0:23:07.57,Title,,0,0,0,,{\an8\bord0\1c&HB4A09B&\t(\fscx96\fscy96\move(960,120,960,138))}本字幕由{\1c&HEABE87&} 今晚月色真美 {\1c&HB4A09B&}个人制作\N{\fs48\1c&HB596FF&}仅供练习使用  {\1c&H2EDDC3&}请勿用于商业用途
-Dialogue: 0,0:03:40.24,0:03:43.75,Title,,0,0,0,,{\pos(1363,900)\fad(500,0)\fs72\1c&H31DCC3&\pos(1217,907)}第12个小时{\1c&HB8A5A1&}『{\1c&HECC090&}阿宅同学{\1c&HB89CFC&}啊{\1c&HB8A5A1&}~』
+Dialogue: 0,0:03:40.24,0:03:43.75,Title,,0,0,0,,{\pos(1363,900)\fad(500,0)\fs72\1c&H31DCC3&\pos(1217,907)}第12个小时{\1c&HB8A5A1&}『{\1c&HECC090&}阿宅同学{\1c&HB89CFC&}啊{\1c&HB8A5A1&}～』
 Comment: 0,0:00:15.91,0:00:15.91,OP-JP,,0,0,0,,OP-JP
 Dialogue: 0,0:21:40.20,0:21:42.99,OP-JP,,20,0,0,,{\fad(300,300)}Yeah, it was nice to meet you and everything
 Dialogue: 0,0:21:43.41,0:21:45.03,OP-JP,,20,0,0,,{\fad(300,300)}But there are somethings you should know
@@ -950,13 +950,13 @@ Dialogue: 1,0:21:19.58,0:21:22.48,CN,,0,0,0,,别人会不会觉得我突然兴�
 Dialogue: 1,0:21:22.94,0:21:25.32,CN,,0,0,0,,果然  只是弄个头发根本没意义…
 Dialogue: 1,0:21:23.78,0:21:24.64,CN,,0,0,0,,{\an8}喂
 Dialogue: 1,0:21:24.64,0:21:25.78,CN,,0,0,0,,{\an8}你在听吗？
-Dialogue: 1,0:21:27.10,0:21:29.26,CN,,0,0,0,,阿宅同学啊~
+Dialogue: 1,0:21:27.10,0:21:29.26,CN,,0,0,0,,阿宅同学啊～
 Dialogue: 1,0:21:30.44,0:21:32.08,CN,,0,0,0,,你到底在没在听啊
 Dialogue: 1,0:21:32.08,0:21:33.22,CN,,0,0,0,,没事吧？
 Dialogue: 1,0:21:35.10,0:21:37.08,CN,,0,0,0,,对阿宅温柔的辣妹…
 Comment: 0,0:00:00.00,0:00:00.00,CN,,0,0,0,,Screen
 Dialogue: 0,0:07:16.91,0:07:20.66,CN,,0,0,0,,{\fs24\bord1\b0\3c&HDCC06C&\fax-0.114064\frz-15.0353\pos(1256.19,532.01)}你在哪？没事吧？
-Dialogue: 0,0:07:16.91,0:07:20.66,CN,,0,0,0,,{\fs24\bord1\b0\3c&HDCC06C&\fax-0.114064\frz-15.0353\pos(1232.19,594.87)}我在操场哦~~
+Dialogue: 0,0:07:16.91,0:07:20.66,CN,,0,0,0,,{\fs24\bord1\b0\3c&HDCC06C&\fax-0.114064\frz-15.0353\pos(1232.19,594.87)}我在操场哦～～
 Dialogue: 0,0:07:16.91,0:07:20.66,CN,,0,0,0,,{\fs24\bord1\b0\3c&HDCC06C&\fax-0.114064\frz-15.0353\pos(1195.62,656.58)}喂———！
 Dialogue: 0,0:09:12.86,0:09:15.24,CN,,0,0,0,,{\fs192\bord10\fsp20\1c&HE49BFF&\3c&HFFFFFF&\move(860,860,3160,860)}一副很懂的表情…
 Dialogue: 0,0:09:12.86,0:09:15.24,CN,,0,0,0,,{\fs192\bord5\fsp20\1c&HE49BFF&\3c&H90008D&\move(860,860,3160,860)}一副很懂的表情…
