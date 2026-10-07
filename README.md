@@ -9,7 +9,7 @@
 
 作品首发于 [Anibt](https://anibt.net/group/tsukigakirei)
 
-同步于 [ACG.RIP](https://acg.rip/team/218)丨[动漫花园](https://share.dmhy.org/topics/list/user_id/760495)丨[蜜柑计划](https://mikanani.me/Home/PublishGroup/417)
+同步于 [ACG.RIP](https://acg.rip/team/218)丨[动漫花园](https://share.dmhy.org/topics/list/user_id/760495)丨[蜜柑计划](https://mikanani.me/Home/PublishGroup/417)丨[末日动漫](https://share.acgnx.se/user-646-1.html)
 
 <br>
 
