@@ -9,11 +9,6 @@ YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
 
-[Aegisub Project Garbage]
-Scroll Position: 114
-Active Line: 125
-Video Position: 1577
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Staff,华康翩翩体W5-A,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,20,1
@@ -111,6 +106,7 @@ Dialogue: 0,0:03:27.53,0:03:28.46,JP,,0,0,0,,持ってきちゃった…
 Dialogue: 0,0:03:29.59,0:03:30.71,JP,,0,0,0,,持ってきちゃった
 Dialogue: 0,0:03:31.39,0:03:32.75,JP,,0,0,0,,こんなのよくない
 Dialogue: 0,0:03:33.22,0:03:34.19,JP,,0,0,0,,こんなの…
+Dialogue: 0,0:03:44.96,0:03:45.95,JP,,0,0,0,,何してるの？
 Dialogue: 0,0:03:47.62,0:03:48.91,JP,,0,0,0,,そんないい匂い？
 Comment: 0,0:00:00.00,0:00:00.00,CN,,0,0,0,,TEXT-CN
 Dialogue: 1,0:00:36.55,0:00:37.25,CN,,0,0,0,,有意思
@@ -149,6 +145,7 @@ Dialogue: 1,0:03:27.53,0:03:28.46,CN,,0,0,0,,拿过来了…
 Dialogue: 1,0:03:29.59,0:03:30.71,CN,,0,0,0,,居然拿过来了
 Dialogue: 1,0:03:31.39,0:03:32.75,CN,,0,0,0,,这样是不对的
 Dialogue: 1,0:03:33.22,0:03:34.19,CN,,0,0,0,,这样…
+Dialogue: 1,0:03:44.96,0:03:45.95,CN,,0,0,0,,你在做什么？
 Dialogue: 1,0:03:47.62,0:03:48.91,CN,,0,0,0,,有那么好闻吗？
 Comment: 0,0:00:00.00,0:00:00.00,屏字,,0,0,0,,Screen
 Dialogue: 0,0:01:05.75,0:01:07.60,CN,,20,0,20,,{\an7\fs48}※汉字可写作「酢蛸」，意思是醋拌章鱼，多少可以联系到开头阿乐拿的那个小玩具
